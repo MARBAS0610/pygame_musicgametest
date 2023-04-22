@@ -1,0 +1,2 @@
+# pygame_musicgametest
+pygameで音ゲー風のプログラムを作成
